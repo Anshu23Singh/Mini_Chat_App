@@ -1,0 +1,93 @@
+body{
+    margin-left: 20px;
+    background-color: beige;
+}
+h3{
+    font-size: 2rem;
+    /* text-align: center; */
+    text-decoration: underline  rgb(101, 101, 238);
+}
+
+.chatBox{
+    /* height: 14rem; */
+    width: 25rem;
+    background-color: rgb(200, 217, 217);
+    margin-top: 0.5rem;
+    padding: 20px;
+    border-radius: 1rem;
+    display: inline-block;
+    box-shadow: 2px 2px 20px rgb(129, 129, 216);
+}
+
+/* p{
+    margin-top: 1rem;
+    padding: 10px 5px;
+} */
+
+.msgBox{
+    background-color: rgb(44, 44, 228);
+    padding: 10px;
+    color: white;
+    border-radius: 1rem;
+}
+
+button{
+    padding: 12px 20px;
+    background-color: rgb(44, 44, 228);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 2px 2px 20px rgb(129, 129, 216);
+    margin-bottom: 1rem;
+    cursor: pointer;
+
+}
+
+#from{
+    padding: 12px 20px;
+    color: black;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 2px 2px 20px rgb(129, 129, 216);
+    margin-bottom: 1rem;
+    
+
+}
+
+#msg{
+    padding: 12px 20px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 2px 2px 20px rgb(129, 129, 216);
+    margin-bottom: 1rem;
+    
+
+}
+
+#to{
+    padding: 12px 20px;
+    color: black;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 2px 2px 20px rgb(129, 129, 216);
+    margin-bottom: 1rem;
+    
+
+}
+
+#btn{
+    width: 6rem;
+    border: 1px solid  white;
+    padding:10px 30px;
+}
+
+#Delbtn{
+    width: 6rem;
+    border: 1px solid  white;
+    padding:10px 30px;
+}
+
+#btn2{
+    border: 2px solid  black;
+    padding:10px 30px;
+}
